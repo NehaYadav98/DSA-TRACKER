@@ -1,0 +1,159 @@
+1. Sliding Window & Two Pointers
+    1. Maximum Subarray Sum of Size K
+    2. Longest Substring Without Repeating Characters
+    3. Longest Substring with At Most K Distinct Characters
+    4. Minimum Window Substring
+    5. Subarrays with Sum K
+    6. Longest Repeating Character Replacement
+    7. Permutation in String
+    8. Max Consecutive Ones III
+    9. Fruit Into Baskets
+    10. Longest Subarray with Ones After Replacement
+
+2. Two Pointers
+    1. 3Sum
+    2. 4Sum
+    3. Container With Most Water
+    4. Remove Duplicates from Sorted Array
+    5. Merge Sorted Array
+    6. Move Zeroes
+    7. Reverse String
+    8. Valid Palindrome
+    9. Two Sum II - Input Array Is Sorted
+
+3. Prefix Sum / Difference Array
+    1. Subarray Sum Equals K
+    2. Range Sum Query - Immutable
+    3. Range Sum Query 2D - Immutable
+    4. Maximum Size Subarray Sum Equals k
+    5. Continuous Subarray Sum
+    6. Sum of All Odd Length Subarrays
+
+4. Fast & Slow Pointers (Floyd’s Cycle)
+    1. Linked List Cycle
+    2. Linked List Cycle II
+    3. Happy Number
+    4. Find the Duplicate Number
+    5. Middle of the Linked List
+    6. Palindrome Linked List
+5. Binary Search (and Variants)
+    1. Binary Search
+    2. Search Insert Position
+    3. Find First and Last Position of Element in Sorted Array
+    4. Search in Rotated Sorted Array
+    5. Median of Two Sorted Arrays
+    6. Koko Eating Bananas
+    7. Capacity To Ship Packages Within D Days
+    8. Find Minimum in Rotated Sorted Array
+    9. Peak Index in a Mountain Array
+
+6. DFS / BFS (Graph or Tree Traversal
+    1. Number of Islands
+    2. Clone Graph
+    3. Word Ladder
+    4. Course Schedule
+    5. Pacific Atlantic Water Flow
+    6. Surrounded Regions
+    7. Rotting Oranges
+    8. Walls and Gates
+    9. Graph Valid Tree
+    10. Reconstruct Itinerary
+7. Backtracking
+    1. Subsets
+    2. Subsets II
+    3. Permutations
+    4. Permutations II
+    5. Combination Sum
+    6. Combination Sum II
+    7. N-Queens
+    8. Sudoku Solver
+    9. Word Search
+    10. Letter Combinations of a Phone Number
+8. Recursion + Memoization (Top-Down DP)
+    1. Climbing Stairs
+    2. House Robber
+    3. House Robber II
+    4. Decode Ways
+    5. Unique Paths
+    6. Unique Paths II
+    7. Minimum Path Sum
+    8. Edit Distance
+    9. Interleaving String
+9. Tabulation (Bottom-Up DP)
+    1. Coin Change
+    2. Coin Change II
+    3. Longest Increasing Subsequence
+    4. Longest Common Subsequence
+    5. Longest Palindromic Subsequence
+    6. Palindromic Substrings
+    7. Partition Equal Subset Sum
+    8. Target Sum
+    9. Best Time to Buy and Sell Stock with Cooldown
+10. Bit Manipulation
+    1. Single Number
+    2. Single Number II
+    3. Counting Bits
+    4. Missing Number
+    5. Sum of Two Integers
+    6. Reverse Bits
+    7. Number of 1 Bits
+    8. Power of Two
+    9. Power of Four
+11. Greedy
+    1. Jump Game
+    2. Jump Game II
+    3. Gas Station
+    4. Candy
+    5. Assign Cookies
+    6. Queue Reconstruction by Height
+    7. Non-overlapping Intervals
+    8. Merge Intervals
+    9. Partition Labels
+    10. Minimum Number of Arrows to Burst Balloons
+12. Stack / Monotonic Stack
+    1. Valid Parentheses
+    2. Min Stack
+    3. Daily Temperatures
+    4. Next Greater Element I
+    5. Next Greater Element II
+    6. Largest Rectangle in Histogram
+    7. Asteroid Collision
+    8. Remove K Digits
+    9. Simplify Path
+    10. Basic Calculator II
+13. Heap / Priority Queue
+    1. Kth Largest Element in an Array
+    2. Top K Frequent Elements
+    3. Merge k Sorted Lists
+    4. Find Median from Data Stream
+    5. Task Scheduler
+    6. Reorganize String
+    7. Sliding Window Maximum
+    8. K Closest Points to Origin
+    9. Frequency Sort
+14. Union-Find / Disjoint Set
+    1. Number of Connected Components in an Undirected Graph
+    2. Redundant Connection
+    3. Accounts Merge
+    4. Graph Valid Tree
+    5. Satisfiability of Equality Equations
+    6. Most Stones Removed with Same Row or Column
+    7. Evaluate Division
+15. Trie
+    1. Implement Trie (Prefix Tree)
+    2. Add and Search Word - Data structure design
+    3. Replace Words
+    4. Word Search II
+    5. Design Search Autocomplete System
+    6. Longest Word in Dictionary
+    7. Palindrome Pairs
+16. Hashing / Frequency Maps
+    1. Two Sum
+    2. Group Anagrams
+    3. Valid Anagram
+    4. Top K Frequent Words
+    5. Isomorphic Strings
+    6. Longest Consecutive Sequence
+    7. Find All Anagrams in a String
+    8. Minimum Window Substring
+    9. Subarray Sum Equals K
