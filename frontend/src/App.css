@@ -1,0 +1,133 @@
+body {
+  background: linear-gradient(135deg, #e0f7fa, #80deea, #4dd0e1, #26c6da);
+  background-attachment: fixed;
+  min-height: 100vh;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.app-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 40px;
+  color: #05445E;
+}
+
+header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+header p {
+  font-size: 1.2rem;
+  opacity: 0.8;
+  margin-bottom: 20px;
+}
+
+/* Overall progress styling - fully responsive */
+.overall-progress {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 12px;
+  padding: 15px;
+  width: 90%;
+  max-width: 500px;
+  margin: 15px auto;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.progress-text {
+  margin-bottom: 10px;
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #05445E;
+}
+
+.progress-bar-container {
+  height: 12px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.progress-bar {
+  height: 100%;
+  background: linear-gradient(90deg, #05445E, #189AB4);
+  border-radius: 10px;
+  transition: width 0.5s ease;
+}
+
+.topics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 20px;
+}
+
+.loading, .error {
+  text-align: center;
+  padding: 40px;
+  font-size: 1.5rem;
+  color: #05445E;
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 10px;
+  margin: 100px auto;
+  max-width: 400px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.error {
+  color: #d32f2f;
+}
+
+@media (max-width: 768px) {
+  .topics-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  header h1 {
+    font-size: 2rem;
+  }
+  
+  .overall-progress {
+    width: 95%;
+    padding: 12px;
+  }
+  
+  .progress-text {
+    font-size: 1rem;
+  }
+  .topic-header {
+    height: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  header h1 {
+    font-size: 1.8rem;
+  }
+  
+  header p {
+    font-size: 1rem;
+  }
+  
+  .overall-progress {
+    padding: 10px;
+  }
+  
+  .progress-text {
+    font-size: 0.9rem;
+  }
+  
+  .progress-bar-container {
+    height: 10px;
+  }
+  
+  .app-container {
+    padding: 15px;
+  }
+}
